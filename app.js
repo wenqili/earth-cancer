@@ -13,7 +13,7 @@ function init() {
     var xhr = new XMLHttpRequest();
 
     // Where do we get the data?
-    xhr.open('GET', '../data-process/air-data/showData.json', true);
+    xhr.open('GET', './data-process/air-data/showData.json', true);
 
     // What do we do when we have it?
     xhr.onreadystatechange = function () {
