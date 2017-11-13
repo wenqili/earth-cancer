@@ -1,4 +1,6 @@
-console.log("this is data.js");
+/**
+ * Front-end side city data process, not used in this app
+ */
 
 let rawCities;
 let filterJson;
