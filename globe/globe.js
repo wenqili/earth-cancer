@@ -263,7 +263,7 @@ DAT.Globe = function(container, opts) {
     point.position.z = 200 * Math.sin(phi) * Math.sin(theta);
 
     var tgeometry = new THREE.SphereGeometry( 5, 32, 32 );
-    var texture1 = textureLoader.load( "/texture.jpeg" );
+    var texture1 = textureLoader.load( "./texture.jpeg" );
     var material1 = new THREE.MeshPhongMaterial( { map: texture1 } );
 
 
