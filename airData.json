@@ -1,0 +1,1661 @@
+[
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Harrison",
+            "state": "Arkansas",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2192,
+                    35.8325
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1027,
+                    "hu": 81,
+                    "ws": 2,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 23,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Harrison",
+            "state": "Arkansas",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2192,
+                    35.8325
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1027,
+                    "hu": 81,
+                    "ws": 2,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 23,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Melbourne",
+            "state": "Florida",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6283,
+                    28.0542
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1020,
+                    "hu": 69,
+                    "ws": 6,
+                    "wd": 60,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 32,
+                    "mainus": "o3",
+                    "aqicn": 25,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Athens",
+            "state": "Georgia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3575,
+                    33.925
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1027,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 97,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 36,
+                    "mainus": "p2",
+                    "aqicn": 12,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tallahassee",
+            "state": "Florida",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3483,
+                    30.4397
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1024,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 50,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 41,
+                    "mainus": "p2",
+                    "aqicn": 19,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Summerville",
+            "state": "Georgia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4081,
+                    34.4742
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-03T06:00:00.000Z",
+                    "tp": 16,
+                    "pr": 1023,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 170,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-03T05:00:00.000Z",
+                    "aqius": 1,
+                    "mainus": "o3",
+                    "aqicn": 1,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -89.640923,
+                    39.831524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1029,
+                    "hu": 81,
+                    "ws": 3,
+                    "wd": 350,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 16,
+                    "mainus": "o3",
+                    "aqicn": 13,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Paducah",
+            "state": "Kentucky",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5725,
+                    37.0581
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-02T19:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1013,
+                    "hu": 69,
+                    "ws": 5,
+                    "wd": 200,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-02T18:00:00.000Z",
+                    "aqius": 22,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wilder",
+            "state": "Kentucky",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4744,
+                    39.0217
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1024,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 173,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 23,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Somerset",
+            "state": "Kentucky",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.611702,
+                    37.097801
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T10:00:00.000Z",
+                    "tp": 6,
+                    "pr": 1019,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 58,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T10:00:00.000Z",
+                    "aqius": 10,
+                    "mainus": "o3",
+                    "aqicn": 8,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Lafayette",
+            "state": "Louisiana",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -92.042801,
+                    30.2258
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1022,
+                    "hu": 83,
+                    "ws": 2,
+                    "wd": 30,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 77,
+                    "mainus": "p2",
+                    "aqicn": 35,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Monroe",
+            "state": "Louisiana",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -92.046097,
+                    32.509701
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 17,
+                    "pr": 1026,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 330,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 20,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Seaford",
+            "state": "Delaware",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6131,
+                    38.6444
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1030,
+                    "hu": 75,
+                    "ws": 1,
+                    "wd": 22,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 17,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hammonton",
+            "state": "New Jersey",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.861488,
+                    39.68425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1029,
+                    "hu": 74,
+                    "ws": 1,
+                    "wd": 26,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 18,
+                    "mainus": "o3",
+                    "aqicn": 14,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Vienna",
+            "state": "West Virginia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5522,
+                    39.325001
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T18:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1020,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 170,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T17:00:00.000Z",
+                    "aqius": 7,
+                    "mainus": "o3",
+                    "aqicn": 6,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "London",
+            "state": "Ohio",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -83.47606,
+                    39.78819
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T15:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1020,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 90,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T15:00:00.000Z",
+                    "aqius": 9,
+                    "mainus": "o3",
+                    "aqicn": 7,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Frostburg",
+            "state": "Maryland",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -79.011902,
+                    39.705799
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1028,
+                    "hu": 56,
+                    "ws": 0,
+                    "wd": 101,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 45,
+                    "mainus": "p2",
+                    "aqicn": 19,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Athens",
+            "state": "Tennessee",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5992,
+                    35.4511
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1025,
+                    "hu": 76,
+                    "ws": 1,
+                    "wd": 130,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 17,
+                    "mainus": "p2",
+                    "aqicn": 6,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tyler",
+            "state": "Texas",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -95.415751,
+                    32.344008
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1025,
+                    "hu": 93,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 22,
+                    "mainus": "o3",
+                    "aqicn": 17,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Arlington",
+            "state": "Virginia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -77.058899,
+                    38.859402
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1029,
+                    "hu": 52,
+                    "ws": 1,
+                    "wd": 122,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 19,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Southside",
+            "state": "Alabama",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -86.05,
+                    33.9
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-03T11:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1022,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 190,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-03T10:00:00.000Z",
+                    "aqius": 1,
+                    "mainus": "o3",
+                    "aqicn": 1,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Decatur",
+            "state": "Alabama",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9706,
+                    34.5286
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 13,
+                    "pr": 1025,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 202,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T21:00:00.000Z",
+                    "aqius": 18,
+                    "mainus": "p2",
+                    "aqicn": 6,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Des Moines",
+            "state": "Iowa",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -93.643303,
+                    41.6031
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1030,
+                    "hu": 89,
+                    "ws": 2,
+                    "wd": 324,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 61,
+                    "mainus": "p2",
+                    "aqicn": 24,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244238,
+                    41.8903958
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1027,
+                    "hu": 100,
+                    "ws": 3,
+                    "wd": 306,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 5,
+                    "mainus": "p2",
+                    "aqicn": 2,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Peoria Heights",
+            "state": "Illinois",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5861,
+                    40.745
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1029,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 340,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 12,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Anderson",
+            "state": "Indiana",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -85.652222,
+                    40.125557
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1025,
+                    "hu": 93,
+                    "ws": 4,
+                    "wd": 360,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 66,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Worcester",
+            "state": "Massachusetts",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.794701,
+                    42.263901
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1029,
+                    "hu": 43,
+                    "ws": 2,
+                    "wd": 280,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 38,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Rumford",
+            "state": "Maine",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5463,
+                    44.5514
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1029,
+                    "hu": 50,
+                    "ws": 0,
+                    "wd": 64,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 76,
+                    "mainus": "p2",
+                    "aqicn": 34,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kalamazoo",
+            "state": "Michigan",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5419,
+                    42.2781
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1027,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 281,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Saint Cloud",
+            "state": "Minnesota",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -94.1333,
+                    45.55
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1029,
+                    "hu": 80,
+                    "ws": 1,
+                    "wd": 240,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "North Woodstock",
+            "state": "New Hampshire",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.7008,
+                    43.945
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1030,
+                    "hu": 74,
+                    "ws": 0,
+                    "wd": 78,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jackson",
+            "state": "New Hampshire",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3025,
+                    44.2783
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1029,
+                    "hu": 69,
+                    "ws": 0,
+                    "wd": 147,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 44,
+                    "mainus": "o3",
+                    "aqicn": 34,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Albany",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7547,
+                    42.6425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1030,
+                    "hu": 43,
+                    "ws": 0,
+                    "wd": 42,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 12,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Albany",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7547,
+                    42.6425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1030,
+                    "hu": 43,
+                    "ws": 0,
+                    "wd": 42,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 12,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Utica",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.225,
+                    43.0994
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1030,
+                    "hu": 55,
+                    "ws": 1,
+                    "wd": 150,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 38,
+                    "mainus": "p2",
+                    "aqicn": 13,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.052292,
+                    40.725452
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1030,
+                    "hu": 52,
+                    "ws": 0,
+                    "wd": 326,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Utica",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.225,
+                    43.0994
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1030,
+                    "hu": 55,
+                    "ws": 1,
+                    "wd": 150,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 38,
+                    "mainus": "p2",
+                    "aqicn": 13,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Weirton",
+            "state": "West Virginia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.580803,
+                    40.4231
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T12:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1022,
+                    "hu": 80,
+                    "ws": 2,
+                    "wd": 110,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T11:00:00.000Z",
+                    "aqius": 4,
+                    "mainus": "o3",
+                    "aqicn": 3,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Monroe",
+            "state": "Pennsylvania",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.512726,
+                    41.705226
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1028,
+                    "hu": 52,
+                    "ws": 2,
+                    "wd": 30,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 56,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Scranton",
+            "state": "Pennsylvania",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6231,
+                    41.4428
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1028,
+                    "hu": 51,
+                    "ws": 1,
+                    "wd": 169,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 63,
+                    "mainus": "p2",
+                    "aqicn": 26,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -96.700768,
+                    43.54792
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1029,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 186,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 26,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Medford",
+            "state": "Wisconsin",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6,
+                    45.2039
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1027,
+                    "hu": 79,
+                    "ws": 2,
+                    "wd": 280,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Appleton",
+            "state": "Wisconsin",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -88.3956,
+                    44.3069
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1027,
+                    "hu": 64,
+                    "ws": 1,
+                    "wd": 221,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 68,
+                    "mainus": "p2",
+                    "aqicn": 29,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Turlock",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -120.8358,
+                    37.4883
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1019,
+                    "hu": 48,
+                    "ws": 1,
+                    "wd": 226,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 33,
+                    "mainus": "o3",
+                    "aqicn": 26,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Parlier",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5036,
+                    36.5975
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1019,
+                    "hu": 48,
+                    "ws": 1,
+                    "wd": 280,
+                    "ic": "50d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 35,
+                    "mainus": "o3",
+                    "aqicn": 28,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2417,
+                    34.0669
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1017,
+                    "hu": 72,
+                    "ws": 0,
+                    "wd": 167,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 64,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Moscow",
+            "state": "Idaho",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -116.954597,
+                    46.728199
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 10,
+                    "pr": 1016,
+                    "hu": 66,
+                    "ws": 4,
+                    "wd": 100,
+                    "ic": "02d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 17,
+                    "mainus": "p2",
+                    "aqicn": 6,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Baraboo",
+            "state": "Wisconsin",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6803,
+                    43.4356
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1028,
+                    "hu": 94,
+                    "ws": 1,
+                    "wd": 317,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 23,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Ho Chi Minh City",
+            "state": "Ho Chi Minh",
+            "country": "Vietnam",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.700035,
+                    10.782773
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 27,
+                    "pr": 1008,
+                    "hu": 88,
+                    "ws": 1,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 119,
+                    "mainus": "p2",
+                    "aqicn": 60,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Durban",
+            "state": "KwaZulu-Natal",
+            "country": "South Africa",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    30.7850647,
+                    -29.80073039
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 16,
+                    "pr": 967,
+                    "hu": 93,
+                    "ws": 0,
+                    "wd": 201,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 16,
+                    "mainus": "p2",
+                    "aqicn": 5,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    }
+]

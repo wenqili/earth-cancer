@@ -10,10 +10,12 @@
  *
  * http://www.apache.org/licenses/LICENSE-2.0
  */
-
+let a =0;
 var DAT = DAT || {};
 
 DAT.Globe = function(container, opts) {
+  var textureLoader = new THREE.TextureLoader();    
+  
   opts = opts || {};
   
   var colorFn = opts.colorFn || function(x) {
@@ -44,25 +46,26 @@ DAT.Globe = function(container, opts) {
         'void main() {',
           'vec3 diffuse = texture2D( texture, vUv ).xyz;',
           'float intensity = 1.05 - dot( vNormal, vec3( 0.0, 0.0, 1.0 ) );',
-          'vec3 atmosphere = vec3( 1.0, 1.0, 1.0 ) * pow( intensity, 3.0 );',
+          'vec3 atmosphere = vec3( 1.0, 1.0, 1.0 ) * pow( intensity, 10.0 );',
           'gl_FragColor = vec4( diffuse + atmosphere, 1.0 );',
         '}'
       ].join('\n')
-    },
+    }
+    ,
     'atmosphere' : {
       uniforms: {},
       vertexShader: [
         'varying vec3 vNormal;',
         'void main() {',
-          'vNormal = normalize( normalMatrix * normal );',
-          'gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );',
+          // 'vNormal = normalize( normalMatrix * normal );',
+          // 'gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );',
         '}'
       ].join('\n'),
       fragmentShader: [
         'varying vec3 vNormal;',
         'void main() {',
-          'float intensity = pow( 0.8 - dot( vNormal, vec3( 0, 0, 1.0 ) ), 12.0 );',
-          'gl_FragColor = vec4( 1.0, 1.0, 1.0, 1.0 ) * intensity;',
+          // 'float intensity = pow( 0.8 - dot( vNormal, vec3( 0, 0, 1.0 ) ), 12.0 );',
+          // 'gl_FragColor = vec4( 1.0, 1.0, 1.0, 1.0 ) * intensity;',
         '}'
       ].join('\n')
     }
@@ -87,7 +90,7 @@ DAT.Globe = function(container, opts) {
 
   function init() {
 
-    container.style.color = '#fff';
+    // container.style.color = '#000000';
     container.style.font = '13px/20px Arial, sans-serif';
 
     var shader, uniforms, material;
@@ -98,13 +101,15 @@ DAT.Globe = function(container, opts) {
     camera.position.z = distance;
 
     scene = new THREE.Scene();
+    scene.background = new THREE.Color( 0xFFFFFF );
+    
 
     var geometry = new THREE.SphereGeometry(200, 40, 30);
 
     shader = Shaders['earth'];
     uniforms = THREE.UniformsUtils.clone(shader.uniforms);
 
-    uniforms['texture'].value = THREE.ImageUtils.loadTexture(imgDir+'world.jpg');
+    uniforms['texture'].value = textureLoader.load(imgDir+'skin.jpeg');
 
     material = new THREE.ShaderMaterial({
 
@@ -136,11 +141,13 @@ DAT.Globe = function(container, opts) {
     mesh.scale.set( 1.1, 1.1, 1.1 );
     scene.add(mesh);
 
+    var light = new THREE.AmbientLight( 0xFFFFFF,1 ); // soft white light
+    scene.add( light )
+
     geometry = new THREE.BoxGeometry(0.75, 0.75, 1);
     geometry.applyMatrix(new THREE.Matrix4().makeTranslation(0,0,-0.5));
 
     point = new THREE.Mesh(geometry);
-
     renderer = new THREE.WebGLRenderer({antialias: true});
     renderer.setSize(w, h);
 
@@ -187,7 +194,7 @@ DAT.Globe = function(container, opts) {
         for (i = 0; i < data.length; i += step) {
           lat = data[i];
           lng = data[i + 1];
-//        size = data[i + 2];
+       size = data[i + 2];
           color = colorFnWrapper(data,i);
           size = 0;
           addPoint(lat, lng, size, color, this._baseGeometry);
@@ -206,7 +213,7 @@ DAT.Globe = function(container, opts) {
       lng = data[i + 1];
       color = colorFnWrapper(data,i);
       size = data[i + 2];
-      size = size*200;
+      // size = size*200;
       addPoint(lat, lng, size, color, subgeo);
     }
     if (opts.animated) {
@@ -220,6 +227,7 @@ DAT.Globe = function(container, opts) {
   function createPoints() {
     if (this._baseGeometry !== undefined) {
       if (this.is_animated === false) {
+        
         this.points = new THREE.Mesh(this._baseGeometry, new THREE.MeshBasicMaterial({
               color: 0xffffff,
               vertexColors: THREE.FaceColors,
@@ -241,12 +249,12 @@ DAT.Globe = function(container, opts) {
               morphTargets: true
             }));
       }
-      scene.add(this.points);
+      // scene.add(this.points);
     }
   }
 
   function addPoint(lat, lng, size, color, subgeo) {
-
+    
     var phi = (90 - lat) * Math.PI / 180;
     var theta = (180 - lng) * Math.PI / 180;
 
@@ -254,22 +262,45 @@ DAT.Globe = function(container, opts) {
     point.position.y = 200 * Math.cos(phi);
     point.position.z = 200 * Math.sin(phi) * Math.sin(theta);
 
+    var tgeometry = new THREE.SphereGeometry( 5, 32, 32 );
+    var texture1 = textureLoader.load( "/texture.jpeg" );
+    var material1 = new THREE.MeshPhongMaterial( { map: texture1 } );
+
+
+    // var material1 = new THREE.MeshPhongMaterial( { map: THREE.ImageUtils.loadTexture('texture.jpg',THREE.SphericalRefractionMapping) } );
+    
+    // var tmesh = new THREE.Mesh(tgeometry,new THREE.MeshPhongMaterial({
+    //   color: 0xffff00,
+    //   vertexColors: THREE.FaceColors,
+    //   morphTargets: true
+    // }))
+    var tmesh = new THREE.Mesh(tgeometry,material1);
+
+    tmesh.position.x = point.position.x;
+    tmesh.position.y = point.position.y;
+    tmesh.position.z = point.position.z;
+    // console.log(tmesh.)
+    tmesh.scale.x = tmesh.scale.y = tmesh.scale.z = point.scale.z*0.03;
+    
+    scene.add(tmesh); 
+    
     point.lookAt(mesh.position);
 
     point.scale.z = Math.max( size, 0.1 ); // avoid non-invertible matrix
     point.updateMatrix();
 
-    for (var i = 0; i < point.geometry.faces.length; i++) {
+    // for (var i = 0; i < point.geometry.faces.length; i++) {
 
-      point.geometry.faces[i].color = color;
-
-    }
-    if(point.matrixAutoUpdate){
-      point.updateMatrix();
-    }
-    subgeo.merge(point.geometry, point.matrix);
+    //   // point.geometry.faces[i].color = color;
+    // }
+    // if(point.matrixAutoUpdate){
+    //   point.updateMatrix();
+    // }
+    // subgeo.merge(point.geometry, point.matrix);
   }
 
+
+  
   function onMouseDown(event) {
     event.preventDefault();
 

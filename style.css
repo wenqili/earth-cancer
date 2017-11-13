@@ -1,3 +1,25 @@
 body {
     overflow: hidden;
 }
+
+#title {
+    position: fixed;
+    z-index: 99;
+    color: red;
+    font-family: monospace;
+    font-size: x-large;
+    margin: 40px;
+}
+
+#container {
+    position: fixed;
+    background-color: white;
+}
+
+#name {
+    font-size: large;
+    margin: -20px 0 0 0;
+}
+
+
+

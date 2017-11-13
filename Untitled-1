@@ -1,0 +1,6584 @@
+[
+    {
+        "status": "success",
+        "data": {
+            "city": "Islamabad",
+            "state": "Islamabad Capital Territory",
+            "country": "Pakistan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.971079,
+                    33.697612
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1013,
+                    "hu": 77,
+                    "ws": 1,
+                    "wd": 27,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 157,
+                    "mainus": "p2",
+                    "aqicn": 89,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Dock Sud",
+            "state": "Buenos Aires",
+            "country": "Argentina",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -58.350375,
+                    -34.651446
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1010,
+                    "hu": 47,
+                    "ws": 3,
+                    "wd": 50,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sydney",
+            "state": "New South Wales",
+            "country": "Australia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    151.125934,
+                    -33.926374
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1024,
+                    "hu": 52,
+                    "ws": 3,
+                    "wd": 100,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T13:00:00.000Z",
+                    "aqius": 13,
+                    "mainus": "o3",
+                    "aqicn": 11,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Melbourne",
+            "state": "Victoria",
+            "country": "Australia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    145.0576,
+                    -37.7229
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 16,
+                    "pr": 1019,
+                    "hu": 82,
+                    "ws": 1,
+                    "wd": 110,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T21:00:00.000Z",
+                    "aqius": 39,
+                    "mainus": "p2",
+                    "aqicn": 13,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sydney",
+            "state": "New South Wales",
+            "country": "Australia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    151.125934,
+                    -33.926374
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1024,
+                    "hu": 52,
+                    "ws": 3,
+                    "wd": 100,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T13:00:00.000Z",
+                    "aqius": 13,
+                    "mainus": "o3",
+                    "aqicn": 11,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sydney",
+            "state": "New South Wales",
+            "country": "Australia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    151.125934,
+                    -33.926374
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1024,
+                    "hu": 52,
+                    "ws": 3,
+                    "wd": 100,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T13:00:00.000Z",
+                    "aqius": 13,
+                    "mainus": "o3",
+                    "aqicn": 11,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wallsend",
+            "state": "New South Wales",
+            "country": "Australia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    151.669547,
+                    -32.902015
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1024,
+                    "hu": 68,
+                    "ws": 5,
+                    "wd": 120,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T13:00:00.000Z",
+                    "aqius": 14,
+                    "mainus": "p2",
+                    "aqicn": 12,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Dhaka",
+            "state": "Dhaka",
+            "country": "Bangladesh",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    90.4232701,
+                    23.7959872
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 24,
+                    "pr": 1010,
+                    "hu": 73,
+                    "ws": 2,
+                    "wd": 350,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 156,
+                    "mainus": "p2",
+                    "aqicn": 87,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sao Paulo",
+            "state": "Sao Paulo",
+            "country": "Brazil",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -46.6717,
+                    -23.5074
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1011,
+                    "hu": 25,
+                    "ws": 3,
+                    "wd": 290,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 29,
+                    "mainus": "o3",
+                    "aqicn": 22,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sao Paulo",
+            "state": "Sao Paulo",
+            "country": "Brazil",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -45.1925,
+                    -22.81639
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1011,
+                    "hu": 25,
+                    "ws": 3,
+                    "wd": 290,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 24,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "London",
+            "state": "Ontario",
+            "country": "Canada",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -81.200858,
+                    42.974461
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1026,
+                    "hu": 64,
+                    "ws": 1,
+                    "wd": 150,
+                    "ic": "09d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T21:00:00.000Z",
+                    "aqius": 45,
+                    "mainus": "p2",
+                    "aqicn": 17,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Toronto Downtown",
+            "state": "Ontario",
+            "country": "Canada",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3853,
+                    43.6619
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1027,
+                    "hu": 75,
+                    "ws": 3,
+                    "wd": 80,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T21:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 17,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sydney",
+            "state": "Nova Scotia",
+            "country": "Canada",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -60.1728,
+                    46.1425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1031,
+                    "hu": 69,
+                    "ws": 2,
+                    "wd": 280,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T21:00:00.000Z",
+                    "aqius": 24,
+                    "mainus": "o3",
+                    "aqicn": 19,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wulumuqi",
+            "state": "Xinjiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    87.5649877411,
+                    43.8403803472
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1027,
+                    "hu": 80,
+                    "ws": 1,
+                    "wd": 10,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 112,
+                    "mainus": "p2",
+                    "aqicn": 56,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Xuancheng",
+            "state": "Anhui",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    118.752096311,
+                    30.9516423543
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1029,
+                    "hu": 94,
+                    "ws": 1,
+                    "wd": 57,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 160,
+                    "mainus": "p2",
+                    "aqicn": 98,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Bijie",
+            "state": "Guizhou",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.3333233712,
+                    27.4085621313
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 8,
+                    "pr": 862,
+                    "hu": 95,
+                    "ws": 1,
+                    "wd": 342,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Putian",
+            "state": "Fujian",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    119.0156,
+                    25.442
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1028,
+                    "hu": 99,
+                    "ws": 10,
+                    "wd": 22,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 70,
+                    "mainus": "p2",
+                    "aqicn": 30,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hezhou",
+            "state": "Guangxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    111.5387718424,
+                    24.4211339539
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 974,
+                    "hu": 96,
+                    "ws": 1,
+                    "wd": 13,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 144,
+                    "mainus": "p2",
+                    "aqicn": 73,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Zhengzhou",
+            "state": "Henan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.3072116,
+                    34.8119274
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 8,
+                    "pr": 1017,
+                    "hu": 75,
+                    "ws": 2,
+                    "wd": 240,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 141,
+                    "mainus": "p2",
+                    "aqicn": 71,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Xian",
+            "state": "Shaanxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    109.0045118968,
+                    34.2156915597
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1021,
+                    "hu": 100,
+                    "ws": 0,
+                    "wd": 236,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 180,
+                    "mainus": "p2",
+                    "aqicn": 145,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Changde",
+            "state": "Hunan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    111.6975,
+                    28.9703
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 10,
+                    "pr": 1017,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 10,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 139,
+                    "mainus": "p2",
+                    "aqicn": 70,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hezhou",
+            "state": "Guangxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    111.5387718424,
+                    24.4211339539
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 974,
+                    "hu": 96,
+                    "ws": 1,
+                    "wd": 13,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 144,
+                    "mainus": "p2",
+                    "aqicn": 73,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Xiamen",
+            "state": "Fujian",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    118.0736715399,
+                    24.4523395885
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-11T04:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1017,
+                    "hu": 50,
+                    "ws": 7,
+                    "wd": 70,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-11T04:00:00.000Z",
+                    "aqius": 110,
+                    "mainus": "p2",
+                    "aqicn": 66,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wuxi",
+            "state": "Jiangsu",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.280809,
+                    31.60009
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T20:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1027,
+                    "hu": 98,
+                    "ws": 2,
+                    "wd": 112,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T20:00:00.000Z",
+                    "aqius": 72,
+                    "mainus": "p2",
+                    "aqicn": 55,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wuhu",
+            "state": "Anhui",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    118.3841084232,
+                    31.3660197875
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1028,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 330,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 162,
+                    "mainus": "p2",
+                    "aqicn": 103,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wuhan",
+            "state": "Hubei",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    114.4444954225,
+                    30.6332050564
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 11,
+                    "pr": 1018,
+                    "hu": 93,
+                    "ws": 1,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 122,
+                    "mainus": "p2",
+                    "aqicn": 61,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wenzhou",
+            "state": "Zhejiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.8110777368,
+                    27.9133407133
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 11,
+                    "pr": 992,
+                    "hu": 97,
+                    "ws": 1,
+                    "wd": 317,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 84,
+                    "mainus": "p2",
+                    "aqicn": 59,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tianjin",
+            "state": "Tianjin",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    117.213363,
+                    39.22679
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1015,
+                    "hu": 80,
+                    "ws": 1,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 202,
+                    "mainus": "p2",
+                    "aqicn": 202,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Taiyuan",
+            "state": "Shanxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    112.4884399798,
+                    37.9727578395
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": -2,
+                    "pr": 1019,
+                    "hu": 92,
+                    "ws": 1,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 232,
+                    "mainus": "p2",
+                    "aqicn": 232,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Suzhou",
+            "state": "Anhui",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    117.0001345783,
+                    33.6453701316
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 8,
+                    "pr": 1027,
+                    "hu": 87,
+                    "ws": 1,
+                    "wd": 203,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 172,
+                    "mainus": "p2",
+                    "aqicn": 128,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Xinzhou",
+            "state": "Shanxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    112.7279388288,
+                    38.461030573
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 0,
+                    "pr": 906,
+                    "hu": 65,
+                    "ws": 4,
+                    "wd": 281,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 54,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shijiazhuang",
+            "state": "Hebei",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    114.6097167,
+                    38.044757
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 8,
+                    "pr": 1015,
+                    "hu": 52,
+                    "ws": 4,
+                    "wd": 250,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 160,
+                    "mainus": "p2",
+                    "aqicn": 96,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Ningbo",
+            "state": "Zhejiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.5351415349,
+                    29.8708987748
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1016,
+                    "hu": 93,
+                    "ws": 2,
+                    "wd": 160,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 93,
+                    "mainus": "p2",
+                    "aqicn": 62,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shenzhen",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.978554,
+                    22.540485
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 22,
+                    "pr": 1012,
+                    "hu": 78,
+                    "ws": 5,
+                    "wd": 90,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 80,
+                    "mainus": "p2",
+                    "aqicn": 37,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Maoming",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    111.053427,
+                    21.463306
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 21,
+                    "pr": 1020,
+                    "hu": 98,
+                    "ws": 4,
+                    "wd": 60,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 61,
+                    "mainus": "p2",
+                    "aqicn": 31,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shantou",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    116.8148077949,
+                    23.5329965496
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1014,
+                    "hu": 100,
+                    "ws": 2,
+                    "wd": 80,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 88,
+                    "mainus": "p2",
+                    "aqicn": 43,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shanghai",
+            "state": "Shanghai",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.538305,
+                    31.226833
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 13,
+                    "pr": 1019,
+                    "hu": 93,
+                    "ws": 2,
+                    "wd": 320,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 72,
+                    "mainus": "p2",
+                    "aqicn": 31,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jiangmen",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.032386,
+                    22.530555
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 22,
+                    "pr": 1012,
+                    "hu": 88,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 86,
+                    "mainus": "p2",
+                    "aqicn": 41,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Yongzhou",
+            "state": "Hunan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    111.6106533707,
+                    26.455049188
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1003,
+                    "hu": 96,
+                    "ws": 1,
+                    "wd": 41,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 160,
+                    "mainus": "p2",
+                    "aqicn": 96,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Qingdao",
+            "state": "Shandong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.3844281837,
+                    36.1052149013
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 10,
+                    "pr": 1016,
+                    "hu": 71,
+                    "ws": 2,
+                    "wd": 200,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 114,
+                    "mainus": "p2",
+                    "aqicn": 70,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Ningbo",
+            "state": "Zhejiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.5351415349,
+                    29.8708987748
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1016,
+                    "hu": 93,
+                    "ws": 2,
+                    "wd": 160,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 93,
+                    "mainus": "p2",
+                    "aqicn": 62,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Nanning",
+            "state": "Guangxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    108.4491184,
+                    22.8094534
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 21,
+                    "pr": 1012,
+                    "hu": 88,
+                    "ws": 1,
+                    "wd": 70,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 163,
+                    "mainus": "p2",
+                    "aqicn": 104,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Nanjing",
+            "state": "Jiangsu",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    118.9207246044,
+                    32.0926314474
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1017,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 30,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 107,
+                    "mainus": "p2",
+                    "aqicn": 89,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shaoguan",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.602102,
+                    24.682908
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 17,
+                    "pr": 984,
+                    "hu": 92,
+                    "ws": 1,
+                    "wd": 2,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 141,
+                    "mainus": "p2",
+                    "aqicn": 71,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kunming",
+            "state": "Yunnan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    102.6398859255,
+                    24.963771326
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1020,
+                    "hu": 100,
+                    "ws": 5,
+                    "wd": 210,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 57,
+                    "mainus": "p2",
+                    "aqicn": 24,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jinan",
+            "state": "Shandong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    117.0249670663,
+                    36.6827847272
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1012,
+                    "hu": 91,
+                    "ws": 2,
+                    "wd": 206,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 154,
+                    "mainus": "p2",
+                    "aqicn": 83,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hangzhou",
+            "state": "Zhejiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.1679188592,
+                    30.2920431172
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1018,
+                    "hu": 87,
+                    "ws": 2,
+                    "wd": 310,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 146,
+                    "mainus": "p2",
+                    "aqicn": 75,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Qiannan",
+            "state": "Guizhou",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    107.5017,
+                    26.2183
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 11,
+                    "pr": 904,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 347,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 22,
+                    "mainus": "s2",
+                    "aqicn": 40,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Guangdong",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.269308,
+                    23.131521
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1013,
+                    "hu": 83,
+                    "ws": 2,
+                    "wd": 10,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 110,
+                    "mainus": "p2",
+                    "aqicn": 55,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Fuzhou",
+            "state": "Fujian",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    119.3119357392,
+                    26.1240406337
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1016,
+                    "hu": 77,
+                    "ws": 2,
+                    "wd": 10,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 119,
+                    "mainus": "p2",
+                    "aqicn": 87,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Guangdong",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.269308,
+                    23.131521
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1013,
+                    "hu": 83,
+                    "ws": 2,
+                    "wd": 10,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 110,
+                    "mainus": "p2",
+                    "aqicn": 55,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shaoxing",
+            "state": "Zhejiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.2027255926,
+                    30.2690743817
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1018,
+                    "hu": 87,
+                    "ws": 2,
+                    "wd": 310,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 122,
+                    "mainus": "p2",
+                    "aqicn": 70,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shuozhou",
+            "state": "Shanxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    112.3060916868,
+                    39.5284812162
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": -4,
+                    "pr": 857,
+                    "hu": 48,
+                    "ws": 7,
+                    "wd": 284,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 58,
+                    "mainus": "p1",
+                    "aqicn": 60,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Fuzhou",
+            "state": "Jiangxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    116.3609188669,
+                    27.9545451703
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1023,
+                    "hu": 88,
+                    "ws": 1,
+                    "wd": 2,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 152,
+                    "mainus": "p2",
+                    "aqicn": 79,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Dongguan",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.474,
+                    23.0046
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 22,
+                    "pr": 1013,
+                    "hu": 83,
+                    "ws": 2,
+                    "wd": 10,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 154,
+                    "mainus": "p2",
+                    "aqicn": 84,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Dalian",
+            "state": "Liaoning",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.627801496,
+                    38.8703171744
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1014,
+                    "hu": 93,
+                    "ws": 7,
+                    "wd": 249,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 146,
+                    "mainus": "p2",
+                    "aqicn": 89,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Guangan",
+            "state": "Sichuan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.6478718897,
+                    30.4587575018
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 12,
+                    "pr": 978,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 185,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 74,
+                    "mainus": "p2",
+                    "aqicn": 33,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Chengdu",
+            "state": "Sichuan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.0570029,
+                    30.65547329999999
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 11,
+                    "pr": 1017,
+                    "hu": 100,
+                    "ws": 1,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 164,
+                    "mainus": "p2",
+                    "aqicn": 108,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Haimen",
+            "state": "Jiangsu",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.3124701437,
+                    31.9560388682
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1032,
+                    "hu": 96,
+                    "ws": 2,
+                    "wd": 86,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 82,
+                    "mainus": "p2",
+                    "aqicn": 52,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Luzhou",
+            "state": "Sichuan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    105.4533098818,
+                    28.9042376847
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 12,
+                    "pr": 982,
+                    "hu": 98,
+                    "ws": 1,
+                    "wd": 225,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 139,
+                    "mainus": "p2",
+                    "aqicn": 70,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Changsha",
+            "state": "Hunan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.0042417791,
+                    28.1683411158
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1018,
+                    "hu": 93,
+                    "ws": 3,
+                    "wd": 10,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 17,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Meizhou",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    116.119068,
+                    24.274852
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 17,
+                    "pr": 992,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 57,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 139,
+                    "mainus": "p2",
+                    "aqicn": 70,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Ningde",
+            "state": "Fujian",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    119.526713,
+                    26.665648
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 15,
+                    "pr": 985,
+                    "hu": 92,
+                    "ws": 1,
+                    "wd": 2,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 72,
+                    "mainus": "p2",
+                    "aqicn": 33,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Beijing",
+            "state": "Beijing",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    116.462153,
+                    39.941674
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1017,
+                    "hu": 45,
+                    "ws": 0,
+                    "wd": 277,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 86,
+                    "mainus": "p2",
+                    "aqicn": 53,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wujiang",
+            "state": "Jiangsu",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    120.6472366233,
+                    31.1586063774
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1018,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 20,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 82,
+                    "mainus": "p2",
+                    "aqicn": 59,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Maoming",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    111.053427,
+                    21.463306
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 21,
+                    "pr": 1021,
+                    "hu": 97,
+                    "ws": 5,
+                    "wd": 67,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 33,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jieyang",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    116.006257,
+                    23.39564
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1014,
+                    "hu": 100,
+                    "ws": 2,
+                    "wd": 100,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 72,
+                    "mainus": "p2",
+                    "aqicn": 31,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sanming",
+            "state": "Fujian",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    117.6143787124,
+                    26.2400843223
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 14,
+                    "pr": 972,
+                    "hu": 92,
+                    "ws": 1,
+                    "wd": 49,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 114,
+                    "mainus": "p2",
+                    "aqicn": 58,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Lienchiang",
+            "state": "Lienchiang",
+            "country": "Taiwan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    119.950027,
+                    26.161133
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1016,
+                    "hu": 77,
+                    "ws": 2,
+                    "wd": 10,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 68,
+                    "mainus": "p2",
+                    "aqicn": 37,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Yingtan",
+            "state": "Jiangxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    117.039830683,
+                    28.2428230578
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1017,
+                    "hu": 96,
+                    "ws": 1,
+                    "wd": 94,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 164,
+                    "mainus": "p2",
+                    "aqicn": 108,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Anshan",
+            "state": "Liaoning",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    122.9694892,
+                    41.09046319999999
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 5,
+                    "pr": 998,
+                    "hu": 84,
+                    "ws": 2,
+                    "wd": 273,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 171,
+                    "mainus": "p2",
+                    "aqicn": 125,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Heping",
+            "state": "Liaoning",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    123.4256797,
+                    41.76941009999999
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1012,
+                    "hu": 86,
+                    "ws": 2,
+                    "wd": 310,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 167,
+                    "mainus": "p2",
+                    "aqicn": 115,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Harbin",
+            "state": "Heilongjiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    126.639385,
+                    45.779145
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": -4,
+                    "pr": 1009,
+                    "hu": 79,
+                    "ws": 5,
+                    "wd": 230,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 122,
+                    "mainus": "p2",
+                    "aqicn": 63,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Zhangqiu",
+            "state": "Heilongjiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    125.8412681134,
+                    47.2012473278
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": -8,
+                    "pr": 991,
+                    "hu": 91,
+                    "ws": 4,
+                    "wd": 251,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 157,
+                    "mainus": "p2",
+                    "aqicn": 91,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Datong",
+            "state": "Jilin",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    125.3201123828,
+                    43.899604866
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1011,
+                    "hu": 87,
+                    "ws": 2,
+                    "wd": 160,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 76,
+                    "mainus": "p2",
+                    "aqicn": 63,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Panjin",
+            "state": "Liaoning",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    122.06386,
+                    41.131973
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1020,
+                    "hu": 52,
+                    "ws": 2,
+                    "wd": 327,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 170,
+                    "mainus": "p2",
+                    "aqicn": 123,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Deqen",
+            "state": "Yunnan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    99.7056,
+                    27.8317
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": -9,
+                    "pr": 696,
+                    "hu": 70,
+                    "ws": 0,
+                    "wd": 341,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 37,
+                    "mainus": "p2",
+                    "aqicn": 48,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Zhongshan",
+            "state": "Guangdong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    113.369,
+                    22.5211
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 22,
+                    "pr": 1013,
+                    "hu": 88,
+                    "ws": 4,
+                    "wd": 80,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 88,
+                    "mainus": "p2",
+                    "aqicn": 43,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tianshui",
+            "state": "Gansu",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.0482829652,
+                    34.409962009
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 1,
+                    "pr": 855,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 351,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 25,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Ganzhou",
+            "state": "Jiangxi",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    114.9026559653,
+                    25.8487199692
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 14,
+                    "pr": 997,
+                    "hu": 98,
+                    "ws": 1,
+                    "wd": 317,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 119,
+                    "mainus": "p2",
+                    "aqicn": 60,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jingzhou",
+            "state": "Hubei",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    112.0998571807,
+                    30.3961033609
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 10,
+                    "pr": 1026,
+                    "hu": 100,
+                    "ws": 2,
+                    "wd": 342,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 107,
+                    "mainus": "p2",
+                    "aqicn": 54,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Shanghai",
+            "state": "Shanghai",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.538305,
+                    31.226833
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1018,
+                    "hu": 87,
+                    "ws": 2,
+                    "wd": 81,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 76,
+                    "mainus": "p2",
+                    "aqicn": 34,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Dazhou",
+            "state": "Sichuan",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    107.5377029651,
+                    31.2871666428
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 11,
+                    "pr": 975,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 18,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 29,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kumul",
+            "state": "Xinjiang",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    93.5002,
+                    42.8369
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": -4,
+                    "pr": 955,
+                    "hu": 64,
+                    "ws": 4,
+                    "wd": 101,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 63,
+                    "mainus": "p2",
+                    "aqicn": 26,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Quanzhou",
+            "state": "Fujian",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    118.6003623432,
+                    24.901652384
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1015,
+                    "hu": 93,
+                    "ws": 1,
+                    "ic": "09n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 84,
+                    "mainus": "p2",
+                    "aqicn": 40,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Bogota",
+            "state": "Bogota",
+            "country": "Colombia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09504,
+                    4.63524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-09T16:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1026,
+                    "hu": 63,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-09T15:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 51,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Bogota",
+            "state": "Bogota",
+            "country": "Colombia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09504,
+                    4.63524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-09T16:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1026,
+                    "hu": 63,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-09T15:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 51,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Bogota",
+            "state": "Bogota",
+            "country": "Colombia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09504,
+                    4.63524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-09T16:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1026,
+                    "hu": 63,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-09T15:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 51,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Berlin",
+            "state": "Berlin",
+            "country": "Germany",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    13.31825,
+                    52.463611
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T08:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1003,
+                    "hu": 93,
+                    "ws": 4,
+                    "wd": 250,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T07:00:00.000Z",
+                    "aqius": 12,
+                    "mainus": "p1",
+                    "aqicn": 14,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Erez",
+            "state": "South District",
+            "country": "Israel",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    34.56336,
+                    31.56193
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 26,
+                    "pr": 1013,
+                    "hu": 27,
+                    "ws": 7,
+                    "wd": 110,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 80,
+                    "mainus": "p1",
+                    "aqicn": 83,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Eilat",
+            "state": "South District",
+            "country": "Israel",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    34.939443,
+                    29.531814
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 17,
+                    "pr": 969,
+                    "hu": 100,
+                    "ws": 0,
+                    "wd": 184,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 70,
+                    "mainus": "p1",
+                    "aqicn": 72,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Karmia",
+            "state": "South District",
+            "country": "Israel",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    34.54211,
+                    31.60403
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 26,
+                    "pr": 1013,
+                    "hu": 27,
+                    "ws": 7,
+                    "wd": 110,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 0,
+                    "mainus": "o3",
+                    "aqicn": 1,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Madrid",
+            "state": "Madrid",
+            "country": "Spain",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -3.645277777777778,
+                    40.407777777777774
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 8,
+                    "pr": 1020,
+                    "hu": 65,
+                    "ws": 2,
+                    "wd": 10,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 24,
+                    "mainus": "p1",
+                    "aqicn": 48,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Addis Ababa",
+            "state": "Addis Ababa",
+            "country": "Ethiopia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    38.757761,
+                    8.980603
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1026,
+                    "hu": 66,
+                    "ws": 3,
+                    "wd": 130,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 57,
+                    "mainus": "p2",
+                    "aqicn": 21,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "York",
+            "state": "York",
+            "country": "United Kingdom",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -1.085679,
+                    53.963805
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T07:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1007,
+                    "hu": 91,
+                    "ws": 6,
+                    "wd": 310,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T06:00:00.000Z",
+                    "aqius": 29,
+                    "mainus": "p2",
+                    "aqicn": 12,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Nottingham",
+            "state": "Nottinghamshire",
+            "country": "United Kingdom",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -1.146447,
+                    52.95473
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1021,
+                    "hu": 69,
+                    "ws": 6,
+                    "wd": 320,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 33,
+                    "mainus": "p2",
+                    "aqicn": 14,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "London",
+            "state": "Greater London",
+            "country": "United Kingdom",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    0.040725,
+                    51.456357
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1020,
+                    "hu": 87,
+                    "ws": 4,
+                    "wd": 310,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 14,
+                    "mainus": "o3",
+                    "aqicn": 11,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Glasgow",
+            "state": "Glasgow",
+            "country": "United Kingdom",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -4.243631,
+                    55.865782
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1026,
+                    "hu": 69,
+                    "ws": 2,
+                    "wd": 280,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "p2",
+                    "aqicn": 30,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Izmir",
+            "state": "Izmir",
+            "country": "Turkey",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    27.166667,
+                    38.462222
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 13,
+                    "pr": 1014,
+                    "hu": 76,
+                    "ws": 2,
+                    "wd": 161,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 53,
+                    "mainus": "p1",
+                    "aqicn": 55,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hong Kong",
+            "state": "Hong Kong",
+            "country": "China",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    114.157775,
+                    22.282079
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 22,
+                    "pr": 1013,
+                    "hu": 78,
+                    "ws": 5,
+                    "wd": 100,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 19,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Oaxaca de Juarez",
+            "state": "Oaxaca",
+            "country": "Mexico",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -96.752166666667,
+                    17.094666666667
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 24,
+                    "pr": 1020,
+                    "hu": 38,
+                    "ws": 4,
+                    "wd": 30,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 25,
+                    "mainus": "p1",
+                    "aqicn": 28,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Abiansemal",
+            "state": "Bali",
+            "country": "Indonesia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    115.2146132,
+                    -8.574738
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 26,
+                    "pr": 1008,
+                    "hu": 88,
+                    "ws": 2,
+                    "ic": "09n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 75,
+                    "mainus": "p2",
+                    "aqicn": 34,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jakarta",
+            "state": "Jakarta",
+            "country": "Indonesia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.79324,
+                    -6.236704
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1007,
+                    "hu": 88,
+                    "ws": 1,
+                    "wd": 230,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 65,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jakarta",
+            "state": "Jakarta",
+            "country": "Indonesia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.79324,
+                    -6.236704
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1007,
+                    "hu": 88,
+                    "ws": 1,
+                    "wd": 230,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 65,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jakarta",
+            "state": "Jakarta",
+            "country": "Indonesia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.79324,
+                    -6.236704
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1007,
+                    "hu": 88,
+                    "ws": 1,
+                    "wd": 230,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 65,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Lucknow",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    80.93874444,
+                    26.84578611
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T17:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1012,
+                    "hu": 72,
+                    "ws": 1,
+                    "wd": 283,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T17:30:00.000Z",
+                    "aqius": 405,
+                    "mainus": "p2",
+                    "aqicn": 407,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kanpur",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    80.3251749,
+                    26.4703088
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 14,
+                    "pr": 1011,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 256,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T19:30:00.000Z",
+                    "aqius": 441,
+                    "mainus": "p2",
+                    "aqicn": 461,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    78.45636,
+                    17.38405
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 20,
+                    "pr": 1011,
+                    "hu": 77,
+                    "ws": 1,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 159,
+                    "mainus": "p2",
+                    "aqicn": 94,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.1167,
+                    28.6683
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T18:00:00.000Z",
+                    "tp": 17,
+                    "pr": 1012,
+                    "hu": 77,
+                    "ws": 1,
+                    "wd": 322,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T17:30:00.000Z",
+                    "aqius": 420,
+                    "mainus": "p2",
+                    "aqicn": 430,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 20,
+                    "pr": 1009,
+                    "hu": 77,
+                    "ws": 2,
+                    "wd": 20,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 155,
+                    "mainus": "p2",
+                    "aqicn": 85,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1008,
+                    "hu": 53,
+                    "ws": 4,
+                    "wd": 110,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 192,
+                    "mainus": "p2",
+                    "aqicn": 177,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hakkari",
+            "state": "Hakkari",
+            "country": "Turkey",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    43.7387312,
+                    37.574391
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": -11,
+                    "pr": 762,
+                    "hu": 62,
+                    "ws": 0,
+                    "wd": 281,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 36,
+                    "mainus": "s2",
+                    "aqicn": 58,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tehran",
+            "state": "Tehran",
+            "country": "Iran",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    51.499,
+                    35.63
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 9,
+                    "pr": 1019,
+                    "hu": 77,
+                    "ws": 1,
+                    "wd": 357,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 92,
+                    "mainus": "p2",
+                    "aqicn": 118,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Roma",
+            "state": "Roma",
+            "country": "Italy",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    12.59033203,
+                    41.73852847
+                ]
+            },
+            "current": {
+                "weather": {},
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 0,
+                    "mainus": "p2",
+                    "aqicn": 0,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Homestead",
+            "state": "Florida",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4828,
+                    25.4719
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1017,
+                    "hu": 88,
+                    "ws": 8,
+                    "wd": 70,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 32,
+                    "mainus": "p2",
+                    "aqicn": 11,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Honmokucho",
+            "state": "Kanagawa",
+            "country": "Japan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    139.661516,
+                    35.4289542
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 9,
+                    "pr": 1024,
+                    "hu": 70,
+                    "ws": 2,
+                    "wd": 350,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "p2",
+                    "aqicn": 21,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Delhi",
+            "state": "Delhi",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    77.1167,
+                    28.6683
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T18:00:00.000Z",
+                    "tp": 17,
+                    "pr": 1012,
+                    "hu": 77,
+                    "ws": 1,
+                    "wd": 322,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T17:30:00.000Z",
+                    "aqius": 420,
+                    "mainus": "p2",
+                    "aqicn": 430,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    88.36304,
+                    22.56263
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 20,
+                    "pr": 1009,
+                    "hu": 77,
+                    "ws": 2,
+                    "wd": 20,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 155,
+                    "mainus": "p2",
+                    "aqicn": 85,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    72.88261,
+                    19.07283
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1008,
+                    "hu": 53,
+                    "ws": 4,
+                    "wd": 110,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 192,
+                    "mainus": "p2",
+                    "aqicn": 177,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hakkari",
+            "state": "Hakkari",
+            "country": "Turkey",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    43.7387312,
+                    37.574391
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": -11,
+                    "pr": 762,
+                    "hu": 62,
+                    "ws": 0,
+                    "wd": 281,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 36,
+                    "mainus": "s2",
+                    "aqicn": 58,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tehran",
+            "state": "Tehran",
+            "country": "Iran",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    51.499,
+                    35.63
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 9,
+                    "pr": 1019,
+                    "hu": 77,
+                    "ws": 1,
+                    "wd": 357,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:30:00.000Z",
+                    "aqius": 92,
+                    "mainus": "p2",
+                    "aqicn": 118,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Homestead",
+            "state": "Florida",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4828,
+                    25.4719
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 25,
+                    "pr": 1017,
+                    "hu": 88,
+                    "ws": 8,
+                    "wd": 70,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 32,
+                    "mainus": "p2",
+                    "aqicn": 11,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Honmokucho",
+            "state": "Kanagawa",
+            "country": "Japan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    139.661516,
+                    35.4289542
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 9,
+                    "pr": 1024,
+                    "hu": 70,
+                    "ws": 2,
+                    "wd": 350,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "p2",
+                    "aqicn": 21,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tokyo",
+            "state": "Tokyo",
+            "country": "Japan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    139.6917064,
+                    35.6894875
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 9,
+                    "pr": 1024,
+                    "hu": 70,
+                    "ws": 1,
+                    "wd": 317,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 33,
+                    "mainus": "p2",
+                    "aqicn": 53,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Osaka",
+            "state": "Osaka",
+            "country": "Japan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    135.5021651,
+                    34.6937378
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 8,
+                    "pr": 1021,
+                    "hu": 76,
+                    "ws": 3,
+                    "wd": 90,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 88,
+                    "mainus": "s2",
+                    "aqicn": 124,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Yeoncheon",
+            "state": "Gyeonggi-do",
+            "country": "South Korea",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    127.074844,
+                    38.096445
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1019,
+                    "hu": 80,
+                    "ws": 1,
+                    "wd": 180,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 61,
+                    "mainus": "p2",
+                    "aqicn": 32,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Seoul",
+            "state": "Seoul",
+            "country": "South Korea",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    126.975961,
+                    37.564639
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1020,
+                    "hu": 85,
+                    "ws": 1,
+                    "wd": 81,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 70,
+                    "mainus": "p2",
+                    "aqicn": 45,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Busan",
+            "state": "Gyeongsangnam-do",
+            "country": "South Korea",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    129.030344,
+                    35.099849
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1018,
+                    "hu": 75,
+                    "ws": 0,
+                    "wd": 350,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 70,
+                    "mainus": "p2",
+                    "aqicn": 45,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Incheon",
+            "state": "Gyeonggi-do",
+            "country": "South Korea",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    126.643199,
+                    37.473818
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 6,
+                    "pr": 1018,
+                    "hu": 65,
+                    "ws": 4,
+                    "wd": 140,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 86,
+                    "mainus": "p2",
+                    "aqicn": 48,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "San Fernando",
+            "state": "Andalucia",
+            "country": "Spain",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -6.203070000000003,
+                    36.46058999948637
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1020,
+                    "hu": 77,
+                    "ws": 3,
+                    "wd": 330,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 18,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Venustiano Carranza",
+            "state": "Mexico City",
+            "country": "Mexico",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -99.119722222222,
+                    19.424722222222
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T05:00:00.000Z",
+                    "tp": 13,
+                    "pr": 1027,
+                    "hu": 55,
+                    "ws": 5,
+                    "wd": 290,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T03:00:00.000Z",
+                    "aqius": 30,
+                    "mainus": "p1",
+                    "aqicn": 33,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Guadalajara",
+            "state": "Jalisco",
+            "country": "Mexico",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -103.31259194444,
+                    20.640966666667
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 27,
+                    "pr": 1020,
+                    "hu": 22,
+                    "ws": 5,
+                    "wd": 40,
+                    "ic": "02d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 79,
+                    "mainus": "p2",
+                    "aqicn": 36,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Morelia",
+            "state": "Michoacan",
+            "country": "Mexico",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -101.15547222222,
+                    19.691977777778
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 26,
+                    "pr": 1021,
+                    "hu": 29,
+                    "ws": 2,
+                    "wd": 290,
+                    "ic": "02d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 38,
+                    "mainus": "o3",
+                    "aqicn": 30,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Morelia",
+            "state": "Michoacan",
+            "country": "Mexico",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -101.15547222222,
+                    19.691977777778
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 26,
+                    "pr": 1021,
+                    "hu": 29,
+                    "ws": 2,
+                    "wd": 290,
+                    "ic": "02d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 38,
+                    "mainus": "o3",
+                    "aqicn": 30,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Chula Vista",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -117.059074,
+                    32.631229
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1017,
+                    "hu": 72,
+                    "ws": 2,
+                    "wd": 340,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 37,
+                    "mainus": "o3",
+                    "aqicn": 29,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tepeapulco",
+            "state": "Hidalgo",
+            "country": "Mexico",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -98.577694444444,
+                    19.771694444444
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1024,
+                    "hu": 28,
+                    "ws": 4,
+                    "wd": 330,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 54,
+                    "mainus": "s2",
+                    "aqicn": 80,
+                    "maincn": "s2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Port Harcourt",
+            "state": "Rivers",
+            "country": "Nigeria",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.048623,
+                    4.854166
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 22,
+                    "pr": 992,
+                    "hu": 94,
+                    "ws": 2,
+                    "wd": 220,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 160,
+                    "mainus": "p2",
+                    "aqicn": 98,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Bogota",
+            "state": "Bogota",
+            "country": "Colombia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09504,
+                    4.63524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-09T16:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1026,
+                    "hu": 63,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-09T15:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 51,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Bogota",
+            "state": "Bogota",
+            "country": "Colombia",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09504,
+                    4.63524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-09T16:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1026,
+                    "hu": 63,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-09T15:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 51,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Carabayllo",
+            "state": "Lima",
+            "country": "Peru",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9873477,
+                    -11.792902
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 16,
+                    "pr": 876,
+                    "hu": 65,
+                    "ws": 1,
+                    "wd": 187,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 43,
+                    "mainus": "p1",
+                    "aqicn": 48,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Carabayllo",
+            "state": "Lima",
+            "country": "Peru",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9873477,
+                    -11.792902
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 16,
+                    "pr": 876,
+                    "hu": 65,
+                    "ws": 1,
+                    "wd": 187,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 43,
+                    "mainus": "p1",
+                    "aqicn": 48,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Carabayllo",
+            "state": "Lima",
+            "country": "Peru",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9873477,
+                    -11.792902
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 16,
+                    "pr": 876,
+                    "hu": 65,
+                    "ws": 1,
+                    "wd": 187,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 43,
+                    "mainus": "p1",
+                    "aqicn": 48,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Carabayllo",
+            "state": "Lima",
+            "country": "Peru",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9873477,
+                    -11.792902
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 16,
+                    "pr": 876,
+                    "hu": 65,
+                    "ws": 1,
+                    "wd": 187,
+                    "ic": "02n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 43,
+                    "mainus": "p1",
+                    "aqicn": 48,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Manila",
+            "state": "National Capital Region",
+            "country": "Philippines",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.032001,
+                    14.6491687
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 27,
+                    "pr": 1010,
+                    "hu": 94,
+                    "ws": 5,
+                    "wd": 71,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 51,
+                    "mainus": "p2",
+                    "aqicn": 17,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Calamba",
+            "state": "Laguna",
+            "country": "Philippines",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.13811491667,
+                    14.164514527778
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 27,
+                    "pr": 1010,
+                    "hu": 94,
+                    "ws": 5,
+                    "wd": 71,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 52,
+                    "mainus": "p2",
+                    "aqicn": 18,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Calamba",
+            "state": "Laguna",
+            "country": "Philippines",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.13811491667,
+                    14.164514527778
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 27,
+                    "pr": 1010,
+                    "hu": 94,
+                    "ws": 5,
+                    "wd": 71,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 52,
+                    "mainus": "p2",
+                    "aqicn": 18,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Karachi",
+            "state": "Sindh",
+            "country": "Pakistan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    67.05294147133827,
+                    24.818095393631435
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 20,
+                    "pr": 1010,
+                    "hu": 72,
+                    "ws": 3,
+                    "wd": 302,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 142,
+                    "mainus": "p2",
+                    "aqicn": 71,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Karachi",
+            "state": "Sindh",
+            "country": "Pakistan",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    67.05294147133827,
+                    24.818095393631435
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 20,
+                    "pr": 1010,
+                    "hu": 72,
+                    "ws": 3,
+                    "wd": 302,
+                    "ic": "03n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 142,
+                    "mainus": "p2",
+                    "aqicn": 71,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Harrison",
+            "state": "Arkansas",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2192,
+                    35.8325
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1027,
+                    "hu": 81,
+                    "ws": 2,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 23,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Harrison",
+            "state": "Arkansas",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2192,
+                    35.8325
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1027,
+                    "hu": 81,
+                    "ws": 2,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 23,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Melbourne",
+            "state": "Florida",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6283,
+                    28.0542
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1020,
+                    "hu": 69,
+                    "ws": 6,
+                    "wd": 60,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 32,
+                    "mainus": "o3",
+                    "aqicn": 25,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Athens",
+            "state": "Georgia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3575,
+                    33.925
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1027,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 97,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 36,
+                    "mainus": "p2",
+                    "aqicn": 12,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tallahassee",
+            "state": "Florida",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3483,
+                    30.4397
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1024,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 50,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 41,
+                    "mainus": "p2",
+                    "aqicn": 19,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Summerville",
+            "state": "Georgia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4081,
+                    34.4742
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-03T06:00:00.000Z",
+                    "tp": 16,
+                    "pr": 1023,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 170,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-03T05:00:00.000Z",
+                    "aqius": 1,
+                    "mainus": "o3",
+                    "aqicn": 1,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -89.640923,
+                    39.831524
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1029,
+                    "hu": 81,
+                    "ws": 3,
+                    "wd": 350,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 16,
+                    "mainus": "o3",
+                    "aqicn": 13,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Paducah",
+            "state": "Kentucky",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5725,
+                    37.0581
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-02T19:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1013,
+                    "hu": 69,
+                    "ws": 5,
+                    "wd": 200,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-02T18:00:00.000Z",
+                    "aqius": 22,
+                    "mainus": "o3",
+                    "aqicn": 18,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Wilder",
+            "state": "Kentucky",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4744,
+                    39.0217
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1024,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 173,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 23,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Somerset",
+            "state": "Kentucky",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.611702,
+                    37.097801
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T10:00:00.000Z",
+                    "tp": 6,
+                    "pr": 1019,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 58,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T10:00:00.000Z",
+                    "aqius": 10,
+                    "mainus": "o3",
+                    "aqicn": 8,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Lafayette",
+            "state": "Louisiana",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -92.042801,
+                    30.2258
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 23,
+                    "pr": 1022,
+                    "hu": 83,
+                    "ws": 2,
+                    "wd": 30,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 77,
+                    "mainus": "p2",
+                    "aqicn": 35,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Monroe",
+            "state": "Louisiana",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -92.046097,
+                    32.509701
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 17,
+                    "pr": 1026,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 330,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 20,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Seaford",
+            "state": "Delaware",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6131,
+                    38.6444
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1030,
+                    "hu": 75,
+                    "ws": 1,
+                    "wd": 22,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 50,
+                    "mainus": "p2",
+                    "aqicn": 17,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Hammonton",
+            "state": "New Jersey",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.861488,
+                    39.68425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1029,
+                    "hu": 74,
+                    "ws": 1,
+                    "wd": 26,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 18,
+                    "mainus": "o3",
+                    "aqicn": 14,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Vienna",
+            "state": "West Virginia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5522,
+                    39.325001
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T18:00:00.000Z",
+                    "tp": 7,
+                    "pr": 1020,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 170,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T17:00:00.000Z",
+                    "aqius": 7,
+                    "mainus": "o3",
+                    "aqicn": 6,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "London",
+            "state": "Ohio",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -83.47606,
+                    39.78819
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T15:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1020,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 90,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T15:00:00.000Z",
+                    "aqius": 9,
+                    "mainus": "o3",
+                    "aqicn": 7,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Frostburg",
+            "state": "Maryland",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -79.011902,
+                    39.705799
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1028,
+                    "hu": 56,
+                    "ws": 0,
+                    "wd": 101,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 45,
+                    "mainus": "p2",
+                    "aqicn": 19,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Athens",
+            "state": "Tennessee",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5992,
+                    35.4511
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 12,
+                    "pr": 1025,
+                    "hu": 76,
+                    "ws": 1,
+                    "wd": 130,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 17,
+                    "mainus": "p2",
+                    "aqicn": 6,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Tyler",
+            "state": "Texas",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -95.415751,
+                    32.344008
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1025,
+                    "hu": 93,
+                    "ws": 4,
+                    "wd": 50,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 22,
+                    "mainus": "o3",
+                    "aqicn": 17,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Arlington",
+            "state": "Virginia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -77.058899,
+                    38.859402
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 5,
+                    "pr": 1029,
+                    "hu": 52,
+                    "ws": 1,
+                    "wd": 122,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 19,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Southside",
+            "state": "Alabama",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -86.05,
+                    33.9
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-03T11:00:00.000Z",
+                    "tp": 15,
+                    "pr": 1022,
+                    "hu": 100,
+                    "ws": 1,
+                    "wd": 190,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-03T10:00:00.000Z",
+                    "aqius": 1,
+                    "mainus": "o3",
+                    "aqicn": 1,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Decatur",
+            "state": "Alabama",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9706,
+                    34.5286
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "tp": 13,
+                    "pr": 1025,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 202,
+                    "ic": "04d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T21:00:00.000Z",
+                    "aqius": 18,
+                    "mainus": "p2",
+                    "aqicn": 6,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Des Moines",
+            "state": "Iowa",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -93.643303,
+                    41.6031
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1030,
+                    "hu": 89,
+                    "ws": 2,
+                    "wd": 324,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 61,
+                    "mainus": "p2",
+                    "aqicn": 24,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6244238,
+                    41.8903958
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1027,
+                    "hu": 100,
+                    "ws": 3,
+                    "wd": 306,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 5,
+                    "mainus": "p2",
+                    "aqicn": 2,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Peoria Heights",
+            "state": "Illinois",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5861,
+                    40.745
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 3,
+                    "pr": 1029,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 340,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 12,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Anderson",
+            "state": "Indiana",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -85.652222,
+                    40.125557
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1025,
+                    "hu": 93,
+                    "ws": 4,
+                    "wd": 360,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 66,
+                    "mainus": "p2",
+                    "aqicn": 27,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Worcester",
+            "state": "Massachusetts",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.794701,
+                    42.263901
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1029,
+                    "hu": 43,
+                    "ws": 2,
+                    "wd": 280,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 38,
+                    "maincn": "n2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Rumford",
+            "state": "Maine",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5463,
+                    44.5514
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1029,
+                    "hu": 50,
+                    "ws": 0,
+                    "wd": 64,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 76,
+                    "mainus": "p2",
+                    "aqicn": 34,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Kalamazoo",
+            "state": "Michigan",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5419,
+                    42.2781
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1027,
+                    "hu": 93,
+                    "ws": 1,
+                    "wd": 281,
+                    "ic": "10n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Saint Cloud",
+            "state": "Minnesota",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -94.1333,
+                    45.55
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1029,
+                    "hu": 80,
+                    "ws": 1,
+                    "wd": 240,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "North Woodstock",
+            "state": "New Hampshire",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.7008,
+                    43.945
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1030,
+                    "hu": 74,
+                    "ws": 0,
+                    "wd": 78,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jackson",
+            "state": "New Hampshire",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3025,
+                    44.2783
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1029,
+                    "hu": 69,
+                    "ws": 0,
+                    "wd": 147,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 44,
+                    "mainus": "o3",
+                    "aqicn": 34,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Albany",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7547,
+                    42.6425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1030,
+                    "hu": 43,
+                    "ws": 0,
+                    "wd": 42,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 12,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Albany",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7547,
+                    42.6425
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1030,
+                    "hu": 43,
+                    "ws": 0,
+                    "wd": 42,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 15,
+                    "mainus": "o3",
+                    "aqicn": 12,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Utica",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.225,
+                    43.0994
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1030,
+                    "hu": 55,
+                    "ws": 1,
+                    "wd": 150,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 38,
+                    "mainus": "p2",
+                    "aqicn": 13,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Jersey City",
+            "state": "New Jersey",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.052292,
+                    40.725452
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1030,
+                    "hu": 52,
+                    "ws": 0,
+                    "wd": 326,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Utica",
+            "state": "New York",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.225,
+                    43.0994
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 2,
+                    "pr": 1030,
+                    "hu": 55,
+                    "ws": 1,
+                    "wd": 150,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 38,
+                    "mainus": "p2",
+                    "aqicn": 13,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Weirton",
+            "state": "West Virginia",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.580803,
+                    40.4231
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-01T12:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1022,
+                    "hu": 80,
+                    "ws": 2,
+                    "wd": 110,
+                    "ic": "10d"
+                },
+                "pollution": {
+                    "ts": "2017-11-01T11:00:00.000Z",
+                    "aqius": 4,
+                    "mainus": "o3",
+                    "aqicn": 3,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Monroe",
+            "state": "Pennsylvania",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.512726,
+                    41.705226
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 4,
+                    "pr": 1028,
+                    "hu": 52,
+                    "ws": 2,
+                    "wd": 30,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 56,
+                    "mainus": "p2",
+                    "aqicn": 20,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Scranton",
+            "state": "Pennsylvania",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6231,
+                    41.4428
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 1,
+                    "pr": 1028,
+                    "hu": 51,
+                    "ws": 1,
+                    "wd": 169,
+                    "ic": "04n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 63,
+                    "mainus": "p2",
+                    "aqicn": 26,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Sioux Falls",
+            "state": "South Dakota",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -96.700768,
+                    43.54792
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1029,
+                    "hu": 82,
+                    "ws": 2,
+                    "wd": 186,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 55,
+                    "mainus": "p2",
+                    "aqicn": 26,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Medford",
+            "state": "Wisconsin",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6,
+                    45.2039
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": -1,
+                    "pr": 1027,
+                    "hu": 79,
+                    "ws": 2,
+                    "wd": 280,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T22:00:00.000Z",
+                    "aqius": 21,
+                    "mainus": "o3",
+                    "aqicn": 16,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Appleton",
+            "state": "Wisconsin",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -88.3956,
+                    44.3069
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1027,
+                    "hu": 64,
+                    "ws": 1,
+                    "wd": 221,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 68,
+                    "mainus": "p2",
+                    "aqicn": 29,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Turlock",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -120.8358,
+                    37.4883
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1019,
+                    "hu": 48,
+                    "ws": 1,
+                    "wd": 226,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 33,
+                    "mainus": "o3",
+                    "aqicn": 26,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Parlier",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5036,
+                    36.5975
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 19,
+                    "pr": 1019,
+                    "hu": 48,
+                    "ws": 1,
+                    "wd": 280,
+                    "ic": "50d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 35,
+                    "mainus": "o3",
+                    "aqicn": 28,
+                    "maincn": "o3"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2417,
+                    34.0669
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 18,
+                    "pr": 1017,
+                    "hu": 72,
+                    "ws": 0,
+                    "wd": 167,
+                    "ic": "01d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 102,
+                    "mainus": "p2",
+                    "aqicn": 64,
+                    "maincn": "p1"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Moscow",
+            "state": "Idaho",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -116.954597,
+                    46.728199
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 10,
+                    "pr": 1016,
+                    "hu": 66,
+                    "ws": 4,
+                    "wd": 100,
+                    "ic": "02d"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 17,
+                    "mainus": "p2",
+                    "aqicn": 6,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Baraboo",
+            "state": "Wisconsin",
+            "country": "USA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6803,
+                    43.4356
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 0,
+                    "pr": 1028,
+                    "hu": 94,
+                    "ws": 1,
+                    "wd": 317,
+                    "ic": "50n"
+                },
+                "pollution": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "aqius": 59,
+                    "mainus": "p2",
+                    "aqicn": 23,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Ho Chi Minh City",
+            "state": "Ho Chi Minh",
+            "country": "Vietnam",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    106.700035,
+                    10.782773
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "tp": 27,
+                    "pr": 1008,
+                    "hu": 88,
+                    "ws": 1,
+                    "ic": "03d"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 119,
+                    "mainus": "p2",
+                    "aqicn": 60,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "city": "Durban",
+            "state": "KwaZulu-Natal",
+            "country": "South Africa",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    30.7850647,
+                    -29.80073039
+                ]
+            },
+            "current": {
+                "weather": {
+                    "ts": "2017-11-12T23:00:00.000Z",
+                    "tp": 16,
+                    "pr": 967,
+                    "hu": 93,
+                    "ws": 0,
+                    "wd": 201,
+                    "ic": "01n"
+                },
+                "pollution": {
+                    "ts": "2017-11-13T00:00:00.000Z",
+                    "aqius": 16,
+                    "mainus": "p2",
+                    "aqicn": 5,
+                    "maincn": "p2"
+                }
+            }
+        }
+    },
+    {
+        "status": "fail",
+        "data": {
+            "message": "no_nearest_city"
+        }
+    }
+]

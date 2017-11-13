@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "curl": "^0.1.4",
     "webgl-globe": "^0.3.0"
   }
 }
